@@ -15,3 +15,8 @@ The dashboard app makes lets you construct any kind of financial ratio for compa
 - Comparison between selected companies
 
 The Alpha Vantage API has a limitation of 5 calls per minute. Keep in mind that you cannot add more than a company per minute.
+
+![image](https://user-images.githubusercontent.com/68292759/161562571-3754f12a-ac8a-4bcf-81d2-2874ee1dbe10.png)
+
+![image](https://user-images.githubusercontent.com/68292759/161562325-25632376-6192-436c-bae8-88baa18701b0.png)
+
