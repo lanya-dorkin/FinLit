@@ -1,6 +1,6 @@
 # FinLit
 
-The dashboard app makes lets you construct any kind of financial ratio for companies represented on US stock exchanges. 
+The dashboard app lets you construct any kind of financial ratio for companies represented on US stock exchanges. 
 
 ### Goals
 - Simplify access to financial data
